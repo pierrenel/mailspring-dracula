@@ -1,0 +1,13 @@
+{
+  "name": "theme-dracula",
+  "title": "Dracula",
+  "displayName": "Dracula",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "🦇",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
